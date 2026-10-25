@@ -1,5 +1,5 @@
 # 🛡️ Trinity : La Trinité Décentralisée
-![La Trinité de la Confiance](https://github.com/pascalranoroarijaona/D-Trinity/blob/main/img/trinitymain.joeg)
+![La Trinité de la Confiance](https://github.com/pascalranoroarijaona/D-Trinity/blob/main/img/trinitymain.jpeg)
 *Authors: [Pascal Ranoroarijaona] — Open Source under CC-BY-SA 4.0* Scroll Down for English Version
 
 https://github.com/user-attachments/assets/39ceb92b-8bbc-44ef-ad27-9601bc21f942
