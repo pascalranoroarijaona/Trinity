@@ -1,4 +1,7 @@
 # 🛡️ Trinity : La Trinité Décentralisée
+
+<img width="512" height="512" alt="logo-trinity" src="https://github.com/user-attachments/assets/869c9993-40e4-4d18-a4c4-7417fb106225" />
+
 ![La Trinité de la Confiance](https://github.com/pascalranoroarijaona/D-Trinity/blob/main/img/trinitymain.jpeg)
 *Authors: [Pascal Ranoroarijaona] — Open Source under CC-BY-SA 4.0* Scroll Down for English Version
 
