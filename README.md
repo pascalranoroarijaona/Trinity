@@ -7,7 +7,7 @@
 
 https://github.com/user-attachments/assets/39ceb92b-8bbc-44ef-ad27-9601bc21f942
 
-Bienvenue sur **Trinity**. Ce portail souverain permet de sceller l'information dans l'éternité numérique. Il combine trois forces décentralisées pour créer une preuve de preuve de publication universelle.
+Bienvenue sur **Trinity**. Ce portail souverain permet de sceller l'information dans l'éternité numérique. Il combine trois forces décentralisées pour créer une preuve de publication universelle.
 
 **Zéro serveur central. Zéro tiers de confiance. 100% Client-Side. La preuve de publication par les mathématiques.**
 
